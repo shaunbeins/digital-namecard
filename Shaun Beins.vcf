@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 13.3.1//EN
+N:Beins;Shaun;;;
+FN:Shaun Beins
+ORG:Mercy Teams International (MTI) Ltd;Transformational Development
+TITLE:Associate
+EMAIL;type=INTERNET;type=WORK;type=pref:shaun.beins@mercyteams.net
+TEL;type=CELL;type=VOICE;type=pref:+65 9633 9136
+item1.ADR;type=WORK;type=pref:;;No. 68\, Lorong 16 Geylang\nAssociation Building\, #05-07;;;398889;Singapore
+item1.X-ABADR:sg
+item2.URL;type=pref:https://www.mercyteams.net/
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
