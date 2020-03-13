@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 6.3499999 6.3500002"
+   height="24"
+   width="24">
+  <title
+     id="title4558">Facebook_Icon</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient4562">
+      <stop
+         id="stop4560"
+         offset="0"
+         style="stop-color:#3d67b1;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Facebook_Icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-290.64998)"
+     id="layer1">
+    <path
+       style="stroke-width:0.00725797;fill:url(#linearGradient4562)"
+       d="m 4.6505455,292.70653 h -1.005955 v -0.65902 c 0,-0.2475 0.164756,-0.30556 0.280158,-0.30556 h 0.708378 v -1.08797 l -0.976923,-0.004 c -1.083615,0 -1.32966,0.81144 -1.32966,1.33111 v 0.72508 h -0.627089 v 1.12062 h 0.627089 v 3.17319 h 1.318773 v -3.17246 h 0.889827 z"
+       id="path4646" />
+  </g>
+</svg>
